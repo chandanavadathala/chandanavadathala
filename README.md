@@ -1,4 +1,12 @@
+# 👋 About Me  
+Hi, I'm **Chandana Vadathala** — a passionate **Computer Science Engineering student** with a strong interest in **Full-Stack Development**  and creating impactful real-world projects.  
+I love combining my problem-solving skills with creativity to build software that is efficient, user-friendly, and scalable.  
 
+🎯 **Career Goal:** Secure a role as a **Software Engineer** where I can contribute to innovative projects and grow my expertise in **backend systems, frontend interfaces**.  
+🌱 **Currently Learning:** Advanced JavaScript, React, FastAPI, and SQL to strengthen my full-stack skills.    
+🤝 **Open to:** Collaborations, internships, and exciting project opportunities.  
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandana-vadathala-b7298a294) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Chandana Vadathala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandanavadathala@gmail.com) 
 
