@@ -34,7 +34,7 @@ Here are some of my favorite works — click to explore:
 | [Tic Tac Toe Game](https://github.com/chandanavadathala/tic-tac-toe-game-js) | Classic game built with JavaScript and responsive design | [Live](https://chandanavadathala.github.io/tic-tac-toe-game-js/) |
 | [Color Gradient Generator](https://github.com/chandanavadathala/color-gradient-generator-tool) | Create beautiful CSS gradients interactively | [Live](https://chandanavadathala.github.io/color-gradient-generator-tool/) |
 | [Temperature Converter](https://github.com/chandanavadathala/temperature-unit-converter) | Convert Celsius ↔ Fahrenheit instantly | [Live](https://chandanavadathala.github.io/temperature-unit-converter/) |
-| [Habit Tracker | Trackes your habits  | [Live]([https://vercel.com/vadathala-chandanas-projects/v0-skill-link-hiring-platform](https://v0-habit-tracker-app-beta-ruddy.vercel.app/)) |
+| [Habit Tracker | Trackes your habits  | [Live](https://v0-habit-tracker-app-beta-ruddy.vercel.app/) |
 | [Coffee-Listing () | Coffee Website with some good Frontend using React.js | [Live](https://coffee-listing-sable.vercel.app/) |
 
 ---
