@@ -1,6 +1,6 @@
 # Hi there, I'm Chandana Vadathala 👋  
 
-🌟 **Frontend Developer | JavaScript Enthusiast | UI/UX LearnerAIML**  
+🌟 **Frontend Developer | JavaScript Enthusiast | AIML**  
 I love building clean, interactive, and user-friendly web experiences.  
 Passionate about turning ideas into reality with HTML, CSS, JavaScript, and modern web tools. 
 Love training models through ALgos
@@ -37,7 +37,7 @@ Here are some of my favorite works — click to explore:
 | [Color Gradient Generator](https://github.com/chandanavadathala/color-gradient-generator-tool) | Create beautiful CSS gradients interactively | [Live](https://chandanavadathala.github.io/color-gradient-generator-tool/) |
 | [Temperature Converter](https://github.com/chandanavadathala/temperature-unit-converter) | Convert Celsius ↔ Fahrenheit instantly | [Live](https://chandanavadathala.github.io/temperature-unit-converter/) |
 | [Habit Tracker] | Trackes your habits  | [Live](https://v0-habit-tracker-app-beta-ruddy.vercel.app/) |
-| [Personal Protfolio]| Protfolio Website  | [Live]([https://v0-personal-portfolio-website-swart-pi.vercel.app/](https://protfolio-website-l6tb.vercel.app/)) |
+| [Personal Protfolio]| Protfolio Website  | [Live](https://protfolio-website-l6tb.vercel.app/) |
 | [Coffee-Listing ()] | Coffee Website with some good Frontend using React.js | [Live](https://coffee-listing-sable.vercel.app/) |
 
 ---
