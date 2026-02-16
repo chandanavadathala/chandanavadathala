@@ -39,7 +39,7 @@ Here are some of my favorite works — click to explore:
 | [Habit Tracker] | Trackes your habits  | [Live](https://v0-habit-tracker-app-beta-ruddy.vercel.app/) |
 | [Personal Protfolio]| Protfolio Website  | [Live](https://protfolio-website-l6tb.vercel.app/) |
 | [Coffee-Listing ()] | Coffee Website with some good Frontend using React.js | [Live](https://coffee-listing-sable.vercel.app/) |
-
+| [DocExtract]|Details extraction from doc  | [Live](https://v0-document-extraction-app-seven.vercel.app/) |
 ---
 
 ## 📊 GitHub Stats
