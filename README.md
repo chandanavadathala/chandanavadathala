@@ -53,16 +53,8 @@ Always learning, always building, and always improving 🚀
 
 ---
 
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -87,10 +79,13 @@ Here are some of my favorite works — click to explore:
 | [Tic Tac Toe Game](https://github.com/chandanavadathala/tic-tac-toe-game-js) | Classic game built with JavaScript and responsive design | [Live](https://chandanavadathala.github.io/tic-tac-toe-game-js/) |
 | [Color Gradient Generator](https://github.com/chandanavadathala/color-gradient-generator-tool) | Create beautiful CSS gradients interactively | [Live](https://chandanavadathala.github.io/color-gradient-generator-tool/) |
 | [Temperature Converter](https://github.com/chandanavadathala/temperature-unit-converter) | Convert Celsius ↔ Fahrenheit instantly | [Live](https://chandanavadathala.github.io/temperature-unit-converter/) |
-| [Habit Tracker] | Trackes your habits  | [Live](https://v0-habit-tracker-app-beta-ruddy.vercel.app/) |
-| [Personal Protfolio]| Protfolio Website  | [Live](https://protfolio-website-l6tb.vercel.app/) |
-| [Coffee-Listing ()] | Coffee Website with some good Frontend using React.js | [Live](https://coffee-listing-sable.vercel.app/) |
-| [DocExtract]|Details extraction from doc  | [Live](https://v0-document-extraction-app-seven.vercel.app/) |
+| [Habit Tracker](https://github.com/chandanavadathala/tic-tac-toe-game-js) | Trackes your habits  | [Live](https://v0-habit-tracker-app-beta-ruddy.vercel.app/) |
+| [Personal Protfolio](https://github.com/chandanavadathala/tic-tac-toe-game-js)| Protfolio Website  | [Live](https://protfolio-website-l6tb.vercel.app/) |
+| [Coffee-Listing ()](https://github.com/chandanavadathala/tic-tac-toe-game-js) | Coffee Website with some good Frontend using React.js | [Live](https://coffee-listing-sable.vercel.app/) |
+| [DocExtract](https://github.com/chandanavadathala/tic-tac-toe-game-js)|Details extraction from doc  | [Live](https://v0-document-extraction-app-seven.vercel.app/) |
+| [Aquasense](https://github.com/chandanavadathala/tic-tac-toe-game-js)|Monitoring water bodies from satellite data  | [Live]() |
+| [Paekzen](https://github.com/chandanavadathala/tic-tac-toe-game-js)|Preparking using AI  | [Live]() |
+
 ---
 
 ## 📊 GitHub Stats
