@@ -1,31 +1,82 @@
 # Hi there, I'm Chandana Vadathala 👋  
 
-🌟 **Frontend Developer | JavaScript Enthusiast | AIML**  
-I love building clean, interactive, and user-friendly web experiences.  
-Passionate about turning ideas into reality with HTML, CSS, JavaScript, and modern web tools. 
-Love training models through ALgos
+🌟 **Frontend Developer | AIML Enthusiast | Full-Stack Learner**  
+
+I’m a Computer Science undergraduate passionate about building **user-friendly and scalable web applications**.  
+Skilled in **React.js, Java, and Python**, I enjoy crafting clean UIs and solving real-world problems through code.  
+
+I’m also exploring **AI/ML**, combining data and development to build smarter applications.  
+Always learning, always building, and always improving 🚀  
+
+💡 I believe in continuous learning, building meaningful projects, and writing code that not only works — but creates impact.  
 
 ---
-
 ## 🚀 About Me
-- 🔭 Currently working on **fun interactive frontend projects**
-- 🌱 Learning **React.js** and improving JavaScript skills
-- 🎯 Goal: Build projects that solve real-world problems
-- ⚡ Fun fact: I can spend hours tweaking a UI until it feels just right
-- ✅ Currently working on AIML,libraries like Pandas and Numpy
+- 🎓 B.E. Computer Science (CGPA: **9.44**)  
+- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
+- 📊 Skilled in working with **data analysis, preprocessing, and model building**
+- 🧠 Hands-on experience with **NumPy, Pandas, Matplotlib, and Seaborn**
+- 📈 Exploring **predictive modeling, time-series analysis, and intelligent systems**
+- 🔬 Interested in combining **AI with web applications** for impactful solutions
+- 💻 Also experienced in **React.js, Java, Python & Full-Stack Development**
+- 🎯 Goal: Become an **AI-driven Full Stack Developer building scalable and smart applications**
+- 🚀 Constantly learning and experimenting with **new ML techniques and technologies**
+- ⚡ Fun fact: I enjoy analyzing patterns in data as much as designing clean UIs 😄  
+
+---
+## 💼 Experience
+**Full Stack Developer Intern**  
+*Infosys Springboard Program (Feb 2026 – Present)*  
+
+- Developed responsive web applications using **React.js & Tailwind CSS**
+- Implemented backend logic using **Java / Node.js**
+- Worked with **MySQL databases**
+- Collaborated using **Git & GitHub in team environments**
 
 ---
 
 ## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 🚀 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006AFF.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🧠 AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge)
+
+---
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📌 Featured Projects
 Here are some of my favorite works — click to explore:
@@ -43,9 +94,17 @@ Here are some of my favorite works — click to explore:
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=chandanavadathala&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=chandanavadathala&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanavadathala&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=chandanavadathala&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chandanavadathala&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanavadathala&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+## 📜 Certifications
+- CSS, JavaScript, Bootstrap – Udemy  
+- SQL – SkillRack  
+- CSS – HackerRank  
+- AI Fundamentals – IBM  
+- Customer Engagement – IBM  
 
 ---
 
