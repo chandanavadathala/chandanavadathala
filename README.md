@@ -12,7 +12,7 @@ Always learning, always building, and always improving 🚀
 
 ---
 ## 🚀 About Me
-- 🎓 B.E. Computer Science (CGPA: **9.44**)  
+- 🎓 B.E. Computer Science (CGPA: **9.22**)  
 - 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
 - 📊 Skilled in working with **data analysis, preprocessing, and model building**
 - 🧠 Hands-on experience with **NumPy, Pandas, Matplotlib, and Seaborn**
@@ -85,6 +85,7 @@ Here are some of my favorite works — click to explore:
 | [DocExtract](https://github.com/chandanavadathala/v0-document-extraction-app)|Details extraction from doc  | [Live](https://v0-document-extraction-app-seven.vercel.app/) |
 | [Aquasense](https://github.com/chandanavadathala/Aquasense)|Monitoring water bodies from satellite data  | [Live]() |
 | [Paekzen](https://github.com/chandanavadathala/ParkZen)|Preparking using AI  | [Live]() |
+| [Heartdisease Prediction](https://github.com/chandanavadathala/heart-disease-prediction)|Details extraction from doc  | [Live](https://heart-disease-prediction-ey2tbfrxyrmffmlwwszxpn.streamlit.app/) |
 
 ---
 
