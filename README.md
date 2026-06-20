@@ -88,6 +88,28 @@ Here are some of my favorite works — click to explore:
 | [Heartdisease Prediction](https://github.com/chandanavadathala/heart-disease-prediction)|Details extraction from doc  | [Live](https://heart-disease-prediction-ey2tbfrxyrmffmlwwszxpn.streamlit.app/) |
 
 ---
+## 💼 Experience
+
+### Frontend Developer Intern
+
+**Infosys Springboard Program** *(Feb 2026 – March 2026)*
+
+* Developed responsive web applications using React.js and Tailwind CSS
+* Collaborated using Git & GitHub in team environments
+* 📜 Certificate: [View Certificate](PASTE_CERTIFICATE_LINK_HERE)
+
+### Team Lead & Software Development Intern
+
+**Tarcin Robotics LLP** *(June 2026 – Present)*
+
+* Developed interactive web-based applications and learning modules
+* Built projects including Screen Explorer, Slide Sandbox, Digital Kindness, KidPix Studio, and Variable Boxes
+* Worked with HTML, CSS, JavaScript
+* Implemented responsive UI components and improved user experience
+* Collaborated with team members to design, develop, and test application features
+* Gained hands-on experience in software development lifecycle and project deployment
+* Led a team in developing interactive web-based applications and learning modules
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=chandanavadathala&theme=tokyonight&hide_border=true&show_icons=true)
