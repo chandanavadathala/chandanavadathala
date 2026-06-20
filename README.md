@@ -24,16 +24,6 @@ Always learning, always building, and always improving 🚀
 - ⚡ Fun fact: I enjoy analyzing patterns in data as much as designing clean UIs 😄  
 
 ---
-## 💼 Experience
-**Full Stack Developer Intern**  
-*Infosys Springboard Program (Feb 2026 – Present)*  
-
-- Developed responsive web applications using **React.js & Tailwind CSS**
-- Implemented backend logic using **Java / Node.js**
-- Worked with **MySQL databases**
-- Collaborated using **Git & GitHub in team environments**
-
----
 
 ## 💻 Tech Stack
 
@@ -109,7 +99,7 @@ Here are some of my favorite works — click to explore:
 * Collaborated with team members to design, develop, and test application features
 * Gained hands-on experience in software development lifecycle and project deployment
 * Led a team in developing interactive web-based applications and learning modules
-
+---
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=chandanavadathala&theme=tokyonight&hide_border=true&show_icons=true)
