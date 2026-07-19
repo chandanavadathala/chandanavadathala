@@ -75,7 +75,8 @@ Here are some of my favorite works — click to explore:
 | [DocExtract](https://github.com/chandanavadathala/v0-document-extraction-app)|Details extraction from doc  | [Live](https://v0-document-extraction-app-seven.vercel.app/) |
 | [Aquasense](https://github.com/chandanavadathala/Aquasense)|Monitoring water bodies from satellite data  | [Live]() |
 | [Paekzen](https://github.com/chandanavadathala/ParkZen)|Preparking using AI  | [Live]() |
-| [Heartdisease Prediction](https://github.com/chandanavadathala/heart-disease-prediction)|Details extraction from doc  | [Live](https://heart-disease-prediction-ey2tbfrxyrmffmlwwszxpn.streamlit.app/) |
+| [Heartdisease Prediction](https://github.com/chandanavadathala/heart-disease-prediction)|To predict the heart disease | [Live](https://heart-disease-prediction-ey2tbfrxyrmffmlwwszxpn.streamlit.app/) |
+| [VisionAi traffic](https://github.com/chandanavadathala/traffic_monitoring)|Monitoring the traffic through AI  | [Live](https://traffic-monitoring-eight.vercel.app/) |
 
 ---
 ## 💼 Experience
@@ -90,7 +91,7 @@ Here are some of my favorite works — click to explore:
 
 ### Team Lead & Software Development Intern
 
-**Tarcin Robotics LLP** *(June 2026 – Present)*
+**Tarcin Robotics LLP** *(June 2026 – July 2026)*
 
 * Developed interactive web-based applications and learning modules
 * Built projects including Screen Explorer, Slide Sandbox, Digital Kindness, KidPix Studio, and Variable Boxes
